@@ -1,0 +1,22 @@
+Pomodoros
+=========
+
+A web application for ["The Pomodoro Technique"](http://www.pomodorotechnique.com/).
+
+Status
+------
+
+Pre-alpha aka not usable
+
+
+Direction
+---------
+
+A web application that helps in using the pomodoro technique for single
+users and groups. It will be internationalized.
+
+License
+-------
+
+[GPL](http://www.gnu.org/copyleft/gpl.html). Commercial licenses are available.
+
